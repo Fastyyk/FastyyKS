@@ -1,0 +1,156 @@
+.Header{
+    background: #2A2A2A;
+    width: 100%;
+    height: 47px;
+    position: absolute;
+}
+.Pov{
+    position: absolute;
+    margin-top: 14px;
+    margin-left: 10px;
+    border: none;
+}
+.PovText{ 
+ margin-left: 40px;   
+ margin-top: 18px;
+position: absolute;
+font-family: 'Noto Sans';
+font-style: normal;
+font-weight: 600;
+font-size: 10px;
+line-height: 16px;
+display: flex;
+align-items: center;
+color: #FFFFFF;
+border: none;
+}
+.IIIII{
+    position: absolute;
+width: 0px;
+height: 14px;
+margin-left: 150px;
+margin-top: 16px;
+
+border: 1px solid rgba(255, 255, 255, 0.5)
+}
+.I1{
+width: 186px;
+height: 9px;
+position: absolute;
+font-family: 'Noto Sans';
+font-style: normal;
+font-weight: 600;
+font-size: 10px;
+line-height: 16px;
+display: flex;
+align-items: center;
+color: #FFFFFF;
+margin-left: 170px;
+margin-top: 21px;
+}
+.I2{
+position: absolute;
+width: 328px;
+height: 48px;
+margin-left: 350px;
+
+background: #D9D9D9;
+}
+.Setti{
+    margin-left: 730px;
+    position: absolute;
+    display: flex;
+    margin-top: 17px;
+    
+}
+.LangF{
+    position: absolute;
+width: 27px;
+height: 14px;
+left: 900px;
+top: 17px;
+background: url(united-kingdom.png), #FFFFFF;
+}
+.Lang{
+    
+position: absolute;
+width: 42px;
+height: 9px;
+left: 940px;
+top: 7px;
+
+font-family: 'Noto Sans';
+font-style: normal;
+font-weight: 500;
+font-size: 12px;
+line-height: 16px;
+display: flex;
+align-items: center;
+
+color: #FFFFFF;
+}
+.LangV{
+margin-left: 985px;
+margin-top: 21px;
+font-size: 12px;
+}
+.E1{
+    position: absolute;
+width: 0px;
+height: 14px;
+left: 1050px;
+top: 16px;
+
+border: 1px solid rgba(255, 255, 255, 0.5);
+}
+.Log1{
+    position: absolute;
+left: 1100px;
+top: 17px;
+font-size: 17px;
+background: #FFFFFF;
+}
+.Loggin{
+ margin-left: 1150px;
+}
+.LOGOS{
+margin-left: 10px;
+margin-top: 70px;
+display: flex;
+position: absolute;
+}
+.K1{
+    margin-left: 400px;
+    color: #7FAD39;
+    margin-top: 85px;
+    display: flex;
+    position: absolute;
+}
+.K2{
+    margin-left: 500px;
+    color: #2A2A2A;
+    margin-top: 85px;
+    display: flex;
+    position: absolute;
+}
+.K3{
+    margin-left: 600px;
+    color: #2A2A2A;
+    margin-top: 85px;
+    display: flex;
+    position: absolute;
+}
+.K4{
+    margin-left: 700px;
+    color: #2A2A2A;
+    margin-top: 85px;
+    display: flex;
+    position: absolute;
+}
+.K5{
+    margin-left: 800px;
+    color: #2A2A2A;
+    margin-top: 85px;
+    display: flex;
+    position: absolute;
+}
